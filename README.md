@@ -10,7 +10,7 @@ Considero que nuestra comprensión del impacto de la misma, y la aparente falta 
 * Computación sostenible
 * Cultura del Internet
 
-Escribo esporadicamente en mi [blog](https://www.pixelhorror.rocks). Cualquier pregunta: levanten la mano.
+Escribo esporadicamente en mi [blog](https://www.pixelhorror.space). Cualquier pregunta: levanten la mano.
 
 ## EN
 Hello! I'm Jerónimo (@pixelhorror). I live in Bogotá, Colombia 🇨🇴.
@@ -24,4 +24,4 @@ I think that our understanding of its impact, and the apparent lack of curiosity
 * Sustainable computing
 * Internet Culture
 
-I write (sometimes and in Spanish) in my [blog](https://www.pixelhorror.rocks). If you have any question, or something caught your eye and the language barrier is hitting you hard: just ask.
+I write (sometimes and in Spanish) in my [blog](https://www.pixelhorror.space). If you have any question, or something caught your eye and the language barrier is hitting you hard: just ask.
